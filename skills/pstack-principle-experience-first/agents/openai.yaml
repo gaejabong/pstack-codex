@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:principle-experience-first
+  short_description: 'pstack workflow: principle-experience-first'
+policy:
+  allow_implicit_invocation: false

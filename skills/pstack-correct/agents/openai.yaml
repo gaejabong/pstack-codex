@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:correct
+  short_description: 'pstack workflow: correct'
+policy:
+  allow_implicit_invocation: false

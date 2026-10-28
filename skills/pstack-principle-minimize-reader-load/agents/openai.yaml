@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:principle-minimize-reader-load
+  short_description: 'pstack workflow: principle-minimize-reader-load'
+policy:
+  allow_implicit_invocation: false

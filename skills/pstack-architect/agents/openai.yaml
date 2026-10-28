@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:architect
+  short_description: 'pstack workflow: architect'
+policy:
+  allow_implicit_invocation: false

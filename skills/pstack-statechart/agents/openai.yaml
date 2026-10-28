@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:statechart
+  short_description: 'pstack workflow: statechart'
+policy:
+  allow_implicit_invocation: false

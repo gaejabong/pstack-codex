@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:swarm
+  short_description: 'pstack workflow: swarm'
+policy:
+  allow_implicit_invocation: false

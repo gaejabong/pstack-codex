@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:no-comments
+  short_description: 'pstack workflow: no-comments'
+policy:
+  allow_implicit_invocation: false

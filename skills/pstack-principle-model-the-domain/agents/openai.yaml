@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:principle-model-the-domain
+  short_description: 'pstack workflow: principle-model-the-domain'
+policy:
+  allow_implicit_invocation: false

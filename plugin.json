@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pstack",
+  "version": "0.1.0",
+  "description": "An unofficial Codex port of pstack: 58 skills for code exploration, design, implementation, and verification.",
+  "author": {
+    "name": "gaejabong"
+  },
+  "homepage": "https://github.com/gaejabong/pstack-codex",
+  "repository": "https://github.com/gaejabong/pstack-codex",
+  "license": "MIT",
+  "keywords": [
+    "pstack",
+    "codex",
+    "skills",
+    "agentic-coding"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "pstack for Codex",
+        "shortDescription": "58 pstack workflows and principles adapted for Codex",
+        "developerName": "gaejabong",
+        "category": "Productivity"
+      }
+    }
+  }
+}

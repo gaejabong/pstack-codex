@@ -1,0 +1,5 @@
+interface:
+  display_name: pstack:typescript-best-practices
+  short_description: 'pstack workflow: typescript-best-practices'
+policy:
+  allow_implicit_invocation: false
